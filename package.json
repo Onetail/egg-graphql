@@ -1,6 +1,6 @@
 {
-  "name": "egg-graphql",
-  "version": "2.7.0",
+  "name": "egg-graphql-waynechu",
+  "version": "2.7.1",
   "description": "egg graphql plugin",
   "eggPlugin": {
     "name": "graphql"
@@ -62,6 +62,6 @@
     "url": "https://github.com/eggjs/egg/issues"
   },
   "homepage": "https://github.com/eggjs/egg-graphql#readme",
-  "author": "jtyjty99999",
+  "author": "WayneChu",
   "license": "MIT"
 }
