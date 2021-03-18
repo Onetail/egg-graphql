@@ -36,7 +36,7 @@ GraphQl Tools 新增了对自定义 directive 的支持，通过 directive 我�
 安装对应的依赖 [egg-graphql] ：
 
 ```bash
-$ npm i --save egg-graphql
+$ npm i --save egg-graphql-waynechu
 ```
 
 开启插件：
