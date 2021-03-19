@@ -45,7 +45,7 @@ $ npm i --save egg-graphql-waynechu
 // config/plugin.js
 exports.graphql = {
   enable: true,
-  package: 'egg-graphql',
+  package: 'egg-graphql-waynechu',
 };
 ```
 

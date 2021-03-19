@@ -1,6 +1,6 @@
 {
   "name": "egg-graphql-waynechu",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "description": "egg graphql plugin",
   "eggPlugin": {
     "name": "graphql"
